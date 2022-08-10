@@ -1,0 +1,6 @@
+Este punto ni siquiera lleva código, así que en un .txt
+Básicamente va de que puedes escribir código Python en la terminal / cmd
+Es tan fácil como escribir "python3" para entrar al interpretador
+Después puedes escribir código y ejecutarlo dentro de la terminal
+Esto sirve para probar código rápidamente
+No es algo que se vaya a usar mucho porque siempre es más cómodo y ordenado una IDE
