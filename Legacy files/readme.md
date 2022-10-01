@@ -4,3 +4,5 @@ Lo vi completo y fui punto por punto copiando código y escribiendo lo que el ch
 
 Recomiendo mucho verlo como primer paso en la programación, y a poder ser ir tomando apuntes como hice yo. 
 Si es tu primer contacto con Python pero no con la programación, tal vez prefieras leer mis apuntes y listo
+
+Y por lo que más quieras, no te pongas a leer archivo por archivo en esta carpeta, USA LA NOTEBOOK QUE HICE
